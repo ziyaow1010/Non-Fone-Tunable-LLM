@@ -1,4 +1,4 @@
-# Code for arXiv:2602.00446 paper: *Towards Building Non-Fine-Tunable Foundation Models*
+# Code for paper: *Towards Building Non-Fine-Tunable Foundation Models*
 
 This repository contains the code implementation for the paper:  
 **arXiv:2602.00446**  
